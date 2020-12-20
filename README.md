@@ -42,6 +42,8 @@ https://github.com/Jay-study-nildana/APIServerDotNetCoreGitActionsCICD
 
 https://github.com/Jay-study-nildana/ReactJSAppVSCodeAzurePipelines
 
+https://github.com/Jay-study-nildana/AzureMLPublic
+
 # --------------Sorted Based on Project--------------
 
 # Tutorials and Documentation
