@@ -6,6 +6,22 @@ Find links and instructions below for all my repos.
 
 Note : any broken links and other advice, please feel free to contact me.
 
+# --------------Basic Learning--------------
+
+https://github.com/Jay-study-nildana/CSharpForStudents - C Sharp, .NET, .NET CORE, CRUD
+
+https://github.com/Jay-study-nildana/Tutorials - HTML, CSS, JAVASCRIPT
+
+https://github.com/Jay-study-nildana/tutorialfullwebappstages - HTML, CSS, JAVASCRIPT
+
+https://github.com/Jay-study-nildana/ReactJSRecipeApp - Quick Simple React Hello World
+
+https://github.com/Jay-study-nildana/Auth0TokenVanillaJSApp - Quick Simple Auth0 Token App, JAVASCRIPT
+
+https://github.com/Jay-study-nildana/ReactJSAppVSCodeAzurePipelines - Quick Simple React Hello World With Azure Pipelines
+
+# --------------Advanced Learning--------------
+
 # --------------Sorted Based on Technology--------------
 
 # .NET 
@@ -22,15 +38,7 @@ https://github.com/Jay-study-nildana/APIServerDotNetWithSimplePasswordToken
 
 https://github.com/Jay-study-nildana/RandomStuffReactJSApp
 
-https://github.com/Jay-study-nildana/ReactJSRecipeApp
-
-https://github.com/Jay-study-nildana/Auth0TokenVanillaJSApp
-
-https://github.com/Jay-study-nildana/ReactJSAppVSCodeAzurePipelines
-
 # Authentication
-
-https://github.com/Jay-study-nildana/Auth0TokenVanillaJSApp
 
 https://github.com/Jay-study-nildana/APIServerDotNetCoreWithAuth0
 
@@ -40,19 +48,13 @@ https://github.com/Jay-study-nildana/APIServerDotNetWithSimplePasswordToken
 
 https://github.com/Jay-study-nildana/APIServerDotNetCoreGitActionsCICD
 
-https://github.com/Jay-study-nildana/ReactJSAppVSCodeAzurePipelines
-
 https://github.com/Jay-study-nildana/AzureMLPublic
 
 # --------------Sorted Based on Project--------------
 
-# Tutorials and Documentation
+# Documentation
 
 https://github.com/Jay-study-nildana/RandomStuffDocs
-
-https://github.com/Jay-study-nildana/Tutorials
-
-https://github.com/Jay-study-nildana/tutorialfullwebappstages
 
 # Random Stuff Generator
 
